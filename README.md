@@ -9,9 +9,9 @@ Experienced Graphic Designer with a demonstrated history of working in the desig
 - ⚡ Fun fact: ... I love taking naps, drinking coffee and eating hot chips (not all together though)
 
 - 📫 How to reach me: 
--    ... facebook: https://www.facebook.com/tia.hannagan/
+-    ... facebook: https://www.facebook.com/tia.darvell/
 -    ... linkedin: https://www.linkedin.com/in/tia-megan/
--    ... email: hannagan.tia@gmail.com
+-    ... email: tiamdarvell@gmail.com
 -    ... replit: https://replit.com/@smlcaffeineaddict/
 
 
