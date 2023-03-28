@@ -8,7 +8,6 @@ My professional background is in Graphic Design, however I've held various custo
 Alongside my obtained Diplomas as showcased in my resume, I have obtained a Diploma of Business with a focus on Project Management and Social Media. With my professional background in Graphic Design I am of the understanding that fluency across many platforms, including but not limited to, Office 365, Adobe and Canva, is ideal in a progressive environment. In my resume, I have outlined my primary skills and competencies, but as I am competent in the Adobe CC, I am also competent in Canva as well. I have experience and a high understanding of the paperwork involved with content creation, scheduling and monitoring. Content creation, including but not limited to, Photographs, Graphics, Infographics, and videos. I have also touched base in CRM content, and have limited experience in Google Analytics and Adwords - but I am willing to learn.
 
 - 🌱 I’m currently learning ... a Bachelor of Cybersecurity at Torrens University!
-- 
 - ⚡ Fun fact: ... I love taking naps, drinking coffee and eating hot chips (not all together though)
 
 - 📫 How to reach me: 
