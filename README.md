@@ -1,18 +1,21 @@
 ### Hi I'm Tia 👋
 Pronouns: she / her 😄 
 
-Professional background in Graphic & Web Design, and Customer Service wanting to dive head first into the world of IT. Applying a plethora of adaptive skills and extensive customer interaction experience to the environment. Minor experience with IT from personal interaction, knowledge of basic programming, and willingness and ability to learn and adapt quickly to training makes me a keen applicant for the entry-level position in a Virtual Database Support role. 
+I love to learn.
 
-Experienced Graphic Designer with a demonstrated history of working in the design industry. Skilled in Graphics, Adobe Creative Suite, Branding, and InDesign. Strong arts and design professional with a Diploma focused in Graphic Design and Digital Media, alongside a Diploma of Business from Torrens University focusing on social media and project management.
+My professional background is in Graphic Design, however I've held various customer service roles, particularly as a Barista and Promotions Coordinator, the later having Receptionist ad-hoc tasks as well. I have an adaptive skillset to suit the needs required of me for the task, otherwise I am willing and keen to learn what I don't know. I am customer focused and have developed my customer service to aid with helping clientele and defusing situations. My previous experience across multiple roles have helped my multitasking, detail orientation and time management skills.
 
-- 🌱 I’m currently learning ... a Diploma of Software Engineering - BUT! I'd like to complete my Bachelors in Software Engineering (Artificial Intelligence)
+Alongside my obtained Diplomas as showcased in my resume, I have obtained a Diploma of Business with a focus on Project Management and Social Media. With my professional background in Graphic Design I am of the understanding that fluency across many platforms, including but not limited to, Office 365, Adobe and Canva, is ideal in a progressive environment. In my resume, I have outlined my primary skills and competencies, but as I am competent in the Adobe CC, I am also competent in Canva as well. I have experience and a high understanding of the paperwork involved with content creation, scheduling and monitoring. Content creation, including but not limited to, Photographs, Graphics, Infographics, and videos. I have also touched base in CRM content, and have limited experience in Google Analytics and Adwords - but I am willing to learn.
+
+- 🌱 I’m currently learning ... a Bachelor of Cybersecurity at Torrens University!
+- 
 - ⚡ Fun fact: ... I love taking naps, drinking coffee and eating hot chips (not all together though)
 
 - 📫 How to reach me: 
--    ... facebook: https://www.facebook.com/tia.darvell/
--    ... linkedin: https://www.linkedin.com/in/tia-megan/
+-    ... facebook: [https://www.facebook.com/tia.darvell/](https://www.facebook.com/tia.darvell/)
+-    ... linkedin: [https://www.linkedin.com/in/tia-megan/](https://www.linkedin.com/in/tia-darvell/)
 -    ... email: tiamdarvell@gmail.com
--    ... replit: https://replit.com/@smlcaffeineaddict/
+-    ... replit: [https://replit.com/@smlcaffeineaddict/](https://replit.com/@smlcaffeineaddict/)
 
 
 <!--
