@@ -3,6 +3,8 @@ Pronouns: she / her 😄
 
 I love to learn.
 
+I'm currently an Instructor and Tutor for STEM Education, I'm teaching C++, Python, Micro:Bits and all mismatched content.
+
 My professional background is in Graphic Design, however I've held various customer service roles, particularly as a Barista and Promotions Coordinator, the later having Receptionist ad-hoc tasks as well. I have an adaptive skillset to suit the needs required of me for the task, otherwise I am willing and keen to learn what I don't know. I am customer focused and have developed my customer service to aid with helping clientele and defusing situations. My previous experience across multiple roles have helped my multitasking, detail orientation and time management skills.
 
 Alongside my obtained Diplomas as showcased in my resume, I have obtained a Diploma of Business with a focus on Project Management and Social Media. With my professional background in Graphic Design I am of the understanding that fluency across many platforms, including but not limited to, Office 365, Adobe and Canva, is ideal in a progressive environment. In my resume, I have outlined my primary skills and competencies, but as I am competent in the Adobe CC, I am also competent in Canva as well. I have experience and a high understanding of the paperwork involved with content creation, scheduling and monitoring. Content creation, including but not limited to, Photographs, Graphics, Infographics, and videos. I have also touched base in CRM content, and have limited experience in Google Analytics and Adwords - but I am willing to learn.
