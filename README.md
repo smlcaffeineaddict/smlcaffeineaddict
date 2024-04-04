@@ -1,18 +1,26 @@
-### Hi I'm Tia 👋
+###  Design |  Education |  Tech | Lifelong Learner
+
+## I'm Tia
 Pronouns: she / her 😄 
 
-I love to learn.
+A passionate learner with a background in design, education, and technology.  I bring a unique blend of creativity, technical proficiency, and a customer-centric approach to everything I do. I thrive in collaborative environments and enjoy tackling challenges with a creative spark.
 
-I'm currently an Instructor and Tutor for STEM Education, I'm teaching C++, Python, Micro:Bits and all mismatched content.
+# Current Focus:
+**Senior Instructor:** I foster a love for STEM subjects (C++, Python, HTML&CSS, Javascript) in students of all ages, using my communication and problem-solving skills to create engaging lessons.
+**Cybersecurity Student:** Continuously expanding my knowledge with an online Bachelor's degree, ensuring I stay relevant in the ever-evolving tech landscape.
 
-My professional background is in Graphic Design, however I've held various customer service roles, particularly as a Barista and Promotions Coordinator, the latter having Receptionist ad-hoc tasks as well. I have an adaptive skillset to suit the needs required of me for the task, otherwise I am willing and keen to learn what I don't know. I am customer focused and have developed my customer service to aid with helping clientele and defusing situations. My previous experience across multiple roles have helped my multitasking, detail orientation and time management skills.
+# Skills & Experience:
+**Design:** Adept in Adobe Creative Suite, Canva, and other design tools. Experience with content creation (photos, graphics, infographics, videos) and understanding of user experience.
+**Coding:** Proficient in C++, Python, HTML/CSS, and Javascript/jQuery, allowing me to understand the functionality behind design.
+**Education:** Senior Instructor with a passion for clear communication, collaboration, and curriculum development.
+**Customer Service:** Proven track record in anticipating needs and delivering exceptional service experiences.
+**Project Management:** Diploma of Business with a focus on Project Management, ensuring organizational skills and strategic planning.
 
-Alongside my obtained Diplomas as showcased in my resume, I have obtained a Diploma of Business with a focus on Project Management and Social Media. With my professional background in Graphic Design I am of the understanding that fluency across many platforms, including but not limited to, Office 365, Adobe and Canva, is ideal in a progressive environment. In my resume, I have outlined my primary skills and competencies, but as I am competent in the Adobe CC, I am also competent in Canva as well. I have experience and a high understanding of the paperwork involved with content creation, scheduling and monitoring. Content creation, including but not limited to, Photographs, Graphics, Infographics, and videos. I have also touched base in CRM content, and have limited experience in Google Analytics and Adwords - but I am willing to learn.
+**Continuous learning is my jam!** I'm currently pursuing a Bachelor of Cybersecurity at Torrens University to further expand my skillset.
 
-- 🌱 I’m currently learning ... a Bachelor of Cybersecurity at Torrens University!
-- ⚡ Fun fact: ... I love taking naps, drinking coffee and eating hot chips (not all together though)
+**Fun fact:** I love taking naps, coffee, and hot chips (not necessarily all at once ).
 
-- 📫 How to reach me: 
+# Let's connect! 
 -    ... facebook: [https://www.facebook.com/tia.darvell/](https://www.facebook.com/tia.darvell/)
 -    ... linkedin: [https://www.linkedin.com/in/tia-megan/](https://www.linkedin.com/in/tia-darvell/)
 -    ... email: tiamdarvell@gmail.com
