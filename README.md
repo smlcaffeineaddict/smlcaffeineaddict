@@ -6,7 +6,7 @@ Pronouns: she / her 😄
 A passionate learner with a background in design, education, and technology.  I bring a unique blend of creativity, technical proficiency, and a customer-centric approach to everything I do. I thrive in collaborative environments and enjoy tackling challenges with a creative spark.
 
 ### Current Focus:
-**Senior Instructor:** I foster a love for STEM subjects (C++, Python, HTML&CSS, Javascript) in students of all ages, using my communication and problem-solving skills to create engaging lessons.
+****Senior Instructor:**** I foster a love for STEM subjects (C++, Python, HTML&CSS, Javascript) in students of all ages, using my communication and problem-solving skills to create engaging lessons.
 **Cybersecurity Student:** Continuously expanding my knowledge with an online Bachelor's degree, ensuring I stay relevant in the ever-evolving tech landscape.
 
 ###  Skills & Experience:
