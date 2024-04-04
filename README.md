@@ -5,11 +5,11 @@ Pronouns: she / her 😄
 
 A passionate learner with a background in design, education, and technology.  I bring a unique blend of creativity, technical proficiency, and a customer-centric approach to everything I do. I thrive in collaborative environments and enjoy tackling challenges with a creative spark.
 
-# Current Focus:
+### Current Focus:
 **Senior Instructor:** I foster a love for STEM subjects (C++, Python, HTML&CSS, Javascript) in students of all ages, using my communication and problem-solving skills to create engaging lessons.
 **Cybersecurity Student:** Continuously expanding my knowledge with an online Bachelor's degree, ensuring I stay relevant in the ever-evolving tech landscape.
 
-# Skills & Experience:
+###  Skills & Experience:
 **Design:** Adept in Adobe Creative Suite, Canva, and other design tools. Experience with content creation (photos, graphics, infographics, videos) and understanding of user experience.
 **Coding:** Proficient in C++, Python, HTML/CSS, and Javascript/jQuery, allowing me to understand the functionality behind design.
 **Education:** Senior Instructor with a passion for clear communication, collaboration, and curriculum development.
@@ -20,7 +20,7 @@ A passionate learner with a background in design, education, and technology.  I 
 
 **Fun fact:** I love taking naps, coffee, and hot chips (not necessarily all at once ).
 
-# Let's connect! 
+###  Let's connect! 
 -    ... facebook: [https://www.facebook.com/tia.darvell/](https://www.facebook.com/tia.darvell/)
 -    ... linkedin: [https://www.linkedin.com/in/tia-megan/](https://www.linkedin.com/in/tia-darvell/)
 -    ... email: tiamdarvell@gmail.com
